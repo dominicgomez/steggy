@@ -1,0 +1,2 @@
+CARRIER_EXTS = ['.wav']
+CARRIER_FMTS = ['WAV']
